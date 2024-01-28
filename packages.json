@@ -1,0 +1,14 @@
+[
+    {
+        "package": "proteinDiscover",
+        "url": "https://github.com/BenBruyneel/proteinDiscover"
+    },
+    {
+        "package": "proteinAnnotation",
+        "url": "https://github.com/BenBruyneel/proteinAnnotation"
+    },
+    {
+        "package": "massSpectrometryR",
+        "url": "https://github.com/BenBruyneel/massSpectrometryR"
+    }
+]
